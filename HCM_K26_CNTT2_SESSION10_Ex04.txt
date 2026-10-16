@@ -1,0 +1,38 @@
+SESSION10
+Bài 4 : Thiết kế Prompt tối ưu cho AI Assistant
+
+Tên lớp: HCM K26 CNTT2
+Môn học: Nhập môn công nghệ thông tin
+Họ và tên: LƯƠNG THANH THƯ
+
+File 1: Prompt (prompt_ipo_trang_trai_thong_minh.md)
+
+Đây là “câu lệnh” bạn gửi cho AI, chia thành 3 phần:
+
+# Bối cảnh
+AI đóng vai gia sư thân thiện.
+Bạn là sinh viên năm 1, chưa có nền, đang khó hiểu mô hình IPO trong trang trại thông minh.
+# Nội dung
+Task List các việc AI phải làm:
+Giải thích IPO bằng lời đơn giản.
+Dùng phép so sánh đời thường.
+Đưa ít nhất 2 ví dụ thực tế.
+Vẽ sơ đồ ASCII.
+Làm bảng tóm tắt.
+Đặt 3 câu tự kiểm tra.
+## Không cần: cấm AI nói về giao thức (MQTT...), code, mạch điện, toán, AI/ML, so sánh mô hình khác.
+# Yêu cầu
+Trình bày bằng Markdown, mỗi ý một gạch đầu dòng.
+Kiểm soát độ khó (Edge Case): tối đa 350 từ, câu không quá 20 từ, ưu tiên tiếng Việt, từ tiếng Anh phải kèm nghĩa.
+File 2: Câu trả lời của AI (tra_loi_ai_mo_hinh_ipo.md)
+
+Đây là kết quả AI trả về khi chạy Prompt trên:
+
+IPO là gì: Input (đầu vào) → Process (xử lý) → Output (đầu ra), tức Nhìn → Nghĩ → Làm.
+So sánh đời thường: người nông dân dùng mắt (Input), não (Process), tay (Output); trang trại thông minh thay bằng cảm biến, bộ điều khiển, thiết bị.
+Sơ đồ: 3 ô nối nhau bằng mũi tên.
+2 ví dụ:
+Tưới cây: độ ẩm đất 25% thấp hơn mức 40% → máy bơm tự bật.
+Nhà kính: nhiệt độ 35°C cao hơn mức 30°C → quạt bật và báo cho chủ vườn.
+Bảng tóm tắt: mỗi thành phần ứng với một câu hỏi (nhìn thấy gì, nghĩ gì, làm gì).
+3 câu tự kiểm tra: có đáp án ẩn trong phần “Xem đáp án”.
